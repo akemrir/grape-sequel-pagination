@@ -1,0 +1,1 @@
+require 'grape/sequel-pagination'
